@@ -1,0 +1,13 @@
+__pycache__/
+vit_models/
+data/
+flickr8k_aim3/
+logs/
+vit_models/
+
+*.jpg
+*.pth
+*.pyc
+*.json
+*.txt
+
