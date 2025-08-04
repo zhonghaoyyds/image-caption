@@ -9,5 +9,4 @@ vit_models/
 *.pth
 *.pyc
 *.json
-*.txt
 
